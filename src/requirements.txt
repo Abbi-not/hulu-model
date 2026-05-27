@@ -1,0 +1,6 @@
+Flask
+prophet
+pandas
+numpy
+matplotlib
+scikit-learnz
